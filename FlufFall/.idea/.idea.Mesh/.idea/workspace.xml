@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac342772-ae9b-4ead-a82c-2ea3bb848636" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/EnterTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/BallMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/GroundCheck.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/SimpleProcMesh.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/TransformationGrid.cs" />
+      <option value="$PROJECT_DIR$/Assets/MyFirstShaderYappieeeeeHiiiii.shader" />
+      <option value="$PROJECT_DIR$/Assets/ShaderWithDetail.shader" />
+      <option value="$PROJECT_DIR$/Assets/NewUnlitShader.shader" />
+      <option value="$PROJECT_DIR$/Assets/SimpleCameraController.cs" />
+      <option value="$PROJECT_DIR$/Assets/ShellTexture.cs" />
+      <option value="$PROJECT_DIR$/Assets/LightingShader.shader" />
+      <option value="$PROJECT_DIR$/Assets/ToonShading/ToonShader.shader" />
+      <option value="$PROJECT_DIR$/Assets/ShellTexturing/ShellShader.shader" />
+      <option value="$PROJECT_DIR$/Assets/TextureSplatting.shader" />
+      <option value="$PROJECT_DIR$/Assets/ShellTexturing/Shell.shader" />
+      <option value="$PROJECT_DIR$/Assets/_Scripts/EnterTrigger.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Scripts/UI/ScoreObserver.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Scripts/GroundCheck.cs" />
+      <option value="$PROJECT_DIR$/Assets/ShellTexturing/ShellTexture.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Scripts/BallMovement.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Scripts/PlayerDeathParticles.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Scripts/Chunk.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Scripts/PlayerDeathObserver.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Scripts/UI/UIWidget.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Scripts/UI/Shop.cs" />
+      <option value="$PROJECT_DIR$/Assets/_Scripts/ProcLevelCreator.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="2fTPjW2dqDFMaoyXj3dDB6pObkV" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/Assets/LightingShader.shader" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../../Desktop/FurFall\Mesh.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="D:\Desktop\FurFall" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac342772-ae9b-4ead-a82c-2ea3bb848636" name="Changes" comment="" />
+      <created>1713822231422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713822231422</updated>
+      <workItem from="1713822234601" duration="8000" />
+      <workItem from="1713822277445" duration="117000" />
+      <workItem from="1713822481925" duration="4729000" />
+      <workItem from="1713862854407" duration="4000" />
+      <workItem from="1713862905102" duration="3874000" />
+      <workItem from="1713889697516" duration="3922000" />
+      <workItem from="1714072783493" duration="8437000" />
+      <workItem from="1714215315335" duration="24121000" />
+      <workItem from="1714347918645" duration="1492000" />
+      <workItem from="1714937983979" duration="657000" />
+      <workItem from="1715084669458" duration="987000" />
+      <workItem from="1715102620890" duration="2036000" />
+      <workItem from="1719155139324" duration="11804000" />
+      <workItem from="1719246662770" duration="14398000" />
+      <workItem from="1719323624254" duration="30387000" />
+      <workItem from="1719402790480" duration="10673000" />
+      <workItem from="1719487402247" duration="5644000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
